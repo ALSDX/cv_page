@@ -1,0 +1,123 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header {
+    text-align: center;
+}
+.photo {
+    width: 300px;
+    border-radius: 25%;
+}
+.title_header {
+    font-size: 28px;
+}
+.subtitle_header {
+    color: rgb(77, 166, 229);
+    font-size: 24px;
+}
+main {
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+.title_skills {
+    font-size: 24px;
+    padding: 0px;
+    margin: 5px 0px 5px 0px;
+}
+.skills ol {
+    list-style: none;
+}
+.title_article {
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px 0px 5px 0px;
+}
+.text_about_me {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 18px;
+}
+.placehold_image {
+    border-radius: 20px;
+}
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: rgb(135, 158, 218);
+    border-radius: 50px;
+}
+.video iframe {
+    width: 800px;
+    height: 490px;
+    border-radius: 20px;
+    border: none;
+}
+.title_hobbies {
+    font-size: 20px;
+    margin: 5px 0px 0px 0px;
+}
+.hobbies ol {
+    list-style: none;
+}
+.education {
+    border-collapse: collapse;
+    width: 95%;
+    margin: 0 auto;
+    table-layout: fixed;
+}
+.caption {
+    font-size: 24px;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+.education th, .education td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote blockquote {
+    font-size: 32px;
+}
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+.input_spector {
+    width: 100%;
+    margin: 0 auto;
+}
+.submit_button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.text_spector {
+    width: 70%;
+    margin-top: 10px;
+}
+.footer {
+    text-align: center;
+    background-color: rgb(237, 234, 229);
+    height: 100px;
+    border: 1px solid rgb(237, 234, 229);
+    border-radius: 20px;
+}
+.contacts_email {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    margin-bottom: 5px;
+    padding-top: 25px;
+}
+.contacts_tel {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    margin-top: 5px;
+}
+.form fieldset {
+    border-radius: 10px;
+    background-color: rgb(237, 234, 229);
+}
