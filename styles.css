@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -27,6 +30,15 @@ main {
 }
 .skills ol {
     list-style: none;
+}
+.projects_title {
+    margin: 5px 0 5px;
+    font-size: 1.5rem;
+}
+.projects__links {
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(77, 166, 229);
 }
 .title_article {
     font-size: 20px;
